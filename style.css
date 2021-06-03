@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-header {
+    width: 100%;
+    background-image: url("Resources/background-photo.jpeg");
+    margin: 0 200px;
+
+}
+
+#navigation ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color: rgb(58, 57, 57);
+    
+}
+
+#navigation ul a {
+    padding: 10px 30px;
+}
